@@ -2,3 +2,5 @@ A test source file containing nothting really important
 
 branch version1 added
 some additional text
+
+branch version2 is here!
